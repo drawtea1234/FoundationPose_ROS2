@@ -1,0 +1,5 @@
+# ninja log v5
+0	9458	1730208655005914813	/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-310/bindings.o	c89a791b253d4541
+13	29493	1730209067668315122	/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-310/common.o	6a1a45dec606cf81
+3	9376	1730209077443881195	/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-310/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/torch_ngp_grid_encoder/bindings.o	d84cbc14aadf74fc
+3	45269	1730209113310311557	/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-310/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/bundlesdf/mycuda/torch_ngp_grid_encoder/gridencoder.o	11ec11e0c2c9de67

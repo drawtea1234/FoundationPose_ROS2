@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dmycpp_EXPORTS -I/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/include -isystem /home/franka/anaconda3/envs/foundationpose_ros/include/python3.10 -isystem /usr/local/include/eigen3  -std=c++14 -fopenmp -g3 -O3 -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/mycpp.dir/src/app/pybind_api.cpp.o -c /home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/src/app/pybind_api.cpp",
+  "file": "/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/src/app/pybind_api.cpp"
+},
+{
+  "directory": "/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dmycpp_EXPORTS -I/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/include -isystem /home/franka/anaconda3/envs/foundationpose_ros/include/python3.10 -isystem /usr/local/include/eigen3  -std=c++14 -fopenmp -g3 -O3 -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/mycpp.dir/src/Utils.cpp.o -c /home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/src/Utils.cpp",
+  "file": "/home/franka/workspace/pose_estimation/FoundationPoseROS2/FoundationPose/mycpp/src/Utils.cpp"
+}
+]
